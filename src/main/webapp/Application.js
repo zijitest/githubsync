@@ -10,7 +10,8 @@ Ext.define('TTT.Application', {
 		'Company', 
 		'TradeTable',
 		'TradeTableSum',
-		'ziji_M_01'
+		'ziji_M_01',
+		'xiaoming_M_01'
 	],
     controllers: [
 		'MainController', 
