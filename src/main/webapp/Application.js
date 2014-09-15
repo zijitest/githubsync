@@ -9,7 +9,8 @@ Ext.define('TTT.Application', {
 		'TaskLog',
 		'Company', 
 		'TradeTable',
-		'TradeTableSum'
+		'TradeTableSum',
+		'xiaoming_M_01'
 	],
     controllers: [
 		'MainController', 
